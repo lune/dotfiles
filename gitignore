@@ -162,3 +162,34 @@ _testmain.go
 
 # linux kernel debs
 linux-*.deb
+
+# Emacs
+*~
+*.elc
+[#]*[#]
+
+# packed files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases
+*.log
+*.db
+*.sqlite
+
+# Python
+*.pyc
+
+.DS_Store
+.idea
+*.iml
+.extra
+.gitconfig
+.gnupg
+!.gnupg/gpg*.conf
