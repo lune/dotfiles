@@ -1,6 +1,6 @@
 ## dotfiles
 
-[![Travis CI](https://img.shields.io/travis/jessfraz/dotfiles.svg?style=for-the-badge)](https://travis-ci.org/jessfraz/dotfiles)
+[![Travis CI](https://img.shields.io/travis/lune/dotfiles.svg?style=for-the-badge)](https://travis-ci.org/lune/dotfiles)
 
 **To install:**
 
