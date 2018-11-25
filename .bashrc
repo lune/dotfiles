@@ -165,3 +165,5 @@ for file in ~/.{bash_prompt,aliases,functions,path,dockerfunc,extra,exports}; do
 done
 unset file
 
+
+complete -C /Users/mpulivendala/Downloads/vault vault
