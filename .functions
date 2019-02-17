@@ -471,3 +471,8 @@ restart_gpgagent(){
 gitsetoriginnopush() {
 	git remote set-url --push origin no_push
 }
+
+notify(){
+    /usr/bin/osascript -e "display notification \"$*\" with title \"Application\""
+
+}
